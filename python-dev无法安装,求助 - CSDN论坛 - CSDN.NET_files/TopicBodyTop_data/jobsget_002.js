@@ -1,0 +1,1 @@
+document.write('<li><a href="http://www.csdn.net/article/2013-08-27/2816724" target=_blank>技术团队新官上任之基层篇</a></li>');

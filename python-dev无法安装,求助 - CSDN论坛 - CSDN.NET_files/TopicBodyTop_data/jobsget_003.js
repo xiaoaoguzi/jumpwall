@@ -1,0 +1,1 @@
+document.write('<li><a href="http://www.csdn.net/article/2013-09-05/2816829" target=_blank>第九届中国软件博览会今日在南京隆重开幕</a></li><li><a href="http://www.csdn.net/article/2013-09-05/2816834-Kodak" target=_blank>再战江湖 New Kodak还牛不牛？</a></li>');

@@ -1,0 +1,1 @@
+document.write('<p><a target="_blank" href="http://www.csdn.net/article/2013-09-04/2816818-15-Code-Syntax-Highlighters-To-Prettify-Your-Code"><font color="#000"><strong>美化代码的15个代码语法高亮工具</strong></font></a></p>');
